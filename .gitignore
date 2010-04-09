@@ -1,0 +1,7 @@
+.DS_Store
+.bundle
+log/*.log
+tmp/**/*
+tmp/restart.txt
+rerun.txt
+capybara-*
