@@ -1,0 +1,1 @@
+Demo application for [openmonkey.com](http://openmonkey.com) article [JavaScript Testing with Cucumber and Capybara](http://openmonkey.com/articles/2010/04/javascript-testing-with-cucumber-capybara)
